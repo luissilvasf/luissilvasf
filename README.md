@@ -1,5 +1,6 @@
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5508438.png" width="369" height="95" alt="Welcome" /></a>
 <a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
+ 
                   .----.
       .---------. | == |
       |.-"""""-.| |----|
@@ -9,7 +10,7 @@
       `"")---(""` |___.|
      /:::::::::::\" _  "
     /:::=======:::\`\`\
-jgs `"""""""""""""`  '-'
+     `"""""""""""""`  '-'
 
 ## 🧑‍🎓Student: ✨*Silva Reyes Luis Adrian*✨
 - 💻 Estudiante de ingeniería en sistemas computacionales en el **Instituto Tecnológico de Tijuana**.
