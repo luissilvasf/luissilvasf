@@ -1,8 +1,7 @@
 ## Hola 👋
 
-Alumno: *Silva Reyes Luis Adrian*
-
-🧑‍🎓Estudiante de ingeniería en sistemas computacionales en el **Instituto Tecnológico de Tijuana**.
+Alumno: *Silva Reyes Luis Adrian*🧑‍🎓
+- Estudiante de ingeniería en sistemas computacionales en el **Instituto Tecnológico de Tijuana**.💻
 
 
 <!--
