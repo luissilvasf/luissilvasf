@@ -1,5 +1,5 @@
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5508438.png" width="369" height="95" alt="Welcome" /></a>
-<a href="https://cooltext.com/Edit-Logo?LogoID=3775089752">Create An Image Just Like This</a>
+<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
                   .----.
       .---------. | == |
       |.-"""""-.| |----|
