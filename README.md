@@ -1,8 +1,10 @@
-## Hola 👋
 
-Alumno: *Silva Reyes Luis Adrian*🧑‍🎓
-- Estudiante de ingeniería en sistemas computacionales en el **Instituto Tecnológico de Tijuana**.💻
 
+## 🧑‍🎓Alumno: ✨*Silva Reyes Luis Adrian*✨
+- 💻 Estudiante de ingeniería en sistemas computacionales en el **Instituto Tecnológico de Tijuana**.
+- 💘 Comenze programacion cuando empezo mi interes en el funcionamiento y desarrollo de aplicaciones
+- 📖 Estoy actualmente aprendiendo a utilizar nuevas herramientas de desarrollo de software 
+- 🔭 Buscando enfocarme en la area de bases de datos 
 
 <!--
 **luissilvasf/luissilvasf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
