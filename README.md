@@ -1,7 +1,6 @@
-![](https://images.cooltext.com/5508423.png)
-<a href="http://es.cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Generador de Logotipos y Gráficos." border="0" /></a>
 
-## 🧑‍🎓Alumno: ✨*Silva Reyes Luis Adrian*✨
+
+## 🧑‍🎓Student: ✨*Silva Reyes Luis Adrian*✨
 - 💻 Estudiante de ingeniería en sistemas computacionales en el **Instituto Tecnológico de Tijuana**.
 - 💘 Comenze programacion cuando empezo mi interes en el funcionamiento y desarrollo de aplicaciones
 - 📖 Estoy actualmente aprendiendo a utilizar nuevas herramientas de desarrollo de software 
