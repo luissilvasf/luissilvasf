@@ -1,6 +1,5 @@
 ![](https://images.cooltext.com/5508420.png)
-![](https://es.cooltext.com/Edit-Logo?LogoID=3775072762)
-<br />Image by <a href="https://es.cooltext.com">Cool Text: Logo and Button Generator</a> - <a href="https://es.cooltext.com/Edit-Logo?LogoID=3775072762">Create Your Own Logo</a>
+<a href="http://es.cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Generador de Logotipos y Gráficos." border="0" /></a>
 
 ## 🧑‍🎓Alumno: ✨*Silva Reyes Luis Adrian*✨
 - 💻 Estudiante de ingeniería en sistemas computacionales en el **Instituto Tecnológico de Tijuana**.
